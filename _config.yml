@@ -1,1 +1,19 @@
-remote_theme: owner/name
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+- jekyll-remote-theme
+- jekyll-include-cache
+title: "בדיקה"
+description: " בודק גיא"
+lang: he
+header_pages: []
+header_dropdown: true
+
+# Default settings
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
