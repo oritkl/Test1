@@ -1,6 +1,8 @@
 ---
+layout: default
+title: bla bla
+---
 
-## title: ניהול קבצים nav\_order: 2 has\_children: false
 
 # 📁 ניהול קבצים ב-Linux וב-Windows
 

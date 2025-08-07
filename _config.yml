@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
 title: "אורית קלינגר"
-description: "בדיקות "
+description: "בדיקות"
 lang: he
 header_pages: []
 header_dropdown: true
