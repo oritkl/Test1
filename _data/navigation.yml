@@ -1,3 +1,7 @@
 main:
   - title: "Home"
     url: index.html
+  - title: "file manage"
+    url: file_management_guide
+
+

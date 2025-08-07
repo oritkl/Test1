@@ -2,8 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
-title: "מתמטיקה עם גיא"
-description: "אתר עזרי לימוד מתמטיקה של גיא"
+title: "אורית קלינגר"
+description: "בדיקות "
 lang: he
 header_pages: []
 header_dropdown: true
