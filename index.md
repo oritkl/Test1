@@ -1,3 +1,3 @@
 ---
 layout: default
-title: éíö÷÷÷÷÷
+title: weird
