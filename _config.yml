@@ -1,9 +1,9 @@
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
 - jekyll-remote-theme
-
-title: "�����"
-description: " ���� ���"
+- jekyll-include-cache
+title: "מתמטיקה עם גיא"
+description: "אתר עזרי לימוד מתמטיקה של גיא"
 lang: he
 header_pages: []
 header_dropdown: true
